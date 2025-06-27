@@ -1,0 +1,5 @@
+﻿Name,Quantity,Component
+"UArduino",1," Arduino Uno R3"
+"PIROutdoor Pin, PIRIndoor Pin",2," PIR Sensor"
+"DLight_LED, DFan_LED",2,"Red LED"
+"RR1, RR2",2,"220 Ω Resistor"
