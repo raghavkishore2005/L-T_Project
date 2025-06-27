@@ -1,7 +1,4 @@
 # L-T_Project
-Absolutely. Here's your clean and professional `README.md` for GitHub:
-
----
 
 # Real-Time Occupancy Detection System
 
