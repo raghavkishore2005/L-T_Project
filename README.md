@@ -45,12 +45,13 @@ The system successfully detects entries and exits through the doorway and contro
 
 ## Files Included
 
-* Arduino code: `occupancy_detector.ino`
-* TinkerCad circuit image: `tinkercad_circuit.png`
-* EasyEDA schematic: `easyeda_schematic.png`
-* Gerber ZIP file for PCB: `Occupancy_Detection_Gerber.zip`
-* Project report: `report.pdf`
-* Demo video: `demo.mp4` (if recorded)
+* Arduino code
+* TinkerCad circuit image
+* EasyEDA schematic:
+* Gerber ZIP file for PCB
+* Project report
+* Demo video
+  All files are inside the PROJECT_FILES folder.
 
 ## Conclusion
 
